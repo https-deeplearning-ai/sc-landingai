@@ -1,8 +1,12 @@
-# Lab 6: Building a Research Paper Chatbot with Strands Agents
+# Document AI: From OCR to Agentic Doc Extraction
 
-## Resources
+## Other DeepLearning Resources
+> :mortar_board: **Keep learning** → [Explore all DeepLearning.AI courses](https://www.deeplearning.ai/courses/) — taught by the people building the future of AI. Find your next one.
+>
+> :computer: **Explore more course artifacts** → [Browse the DeepLearning.AI course artifacts repo](https://github.com/https-deeplearning-ai/deeplearning-ai) to find notebooks, projects, and notes from other courses across the DeepLearning.AI library.
 
-This lab uses several AWS services including Lambda, S3, IAM, and Bedrock. To learn more about cloud computing on AWS, please check out the following resources: 
+## About this repository
+This repository covers supplemental material for Lab 6 of the course. Document processing can surface information from across files and images by parsing, extracting and splitting data. In Lab 5 of the course, you built a local pipeline for document processing with LandingAI. Here you will learn to build the same pipeline in the cloud with AWS. In particular, you will build a chatbot for conducting deep research with several AWS services. Those services include Lambda, S3, IAM, and Bedrock. To learn more about cloud computing on AWS, please check out the following resources: 
 
  * <u> **Documentation** </u>
     * <a href="https://docs.aws.amazon.com/s3/" target="_blank" style="text-decoration: none;">S3</a>
